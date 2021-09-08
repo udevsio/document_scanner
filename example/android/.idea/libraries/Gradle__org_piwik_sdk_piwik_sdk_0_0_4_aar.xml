@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: org.piwik.sdk:piwik-sdk:0.0.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddcc7ba5346101f850c3102c2ec0fd1f/jetified-piwik-sdk-0.0.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddcc7ba5346101f850c3102c2ec0fd1f/jetified-piwik-sdk-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddcc7ba5346101f850c3102c2ec0fd1f/jetified-piwik-sdk-0.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddcc7ba5346101f850c3102c2ec0fd1f/jetified-piwik-sdk-0.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.piwik.sdk/piwik-sdk/0.0.4/e239fef872f91cb254f76cfe3a3b59f755198aa8/piwik-sdk-0.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.piwik.sdk/piwik-sdk/0.0.4/4afa2fd448acbfb18d0d86efabdae29711785d52/piwik-sdk-0.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

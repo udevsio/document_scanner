@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.eliasteeny:opencv_android_module:3.1.0-fix3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14b765a8ed2a5aa65b88c5aae1dcc4db/opencv_android_module-3.1.0-fix3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14b765a8ed2a5aa65b88c5aae1dcc4db/opencv_android_module-3.1.0-fix3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14b765a8ed2a5aa65b88c5aae1dcc4db/opencv_android_module-3.1.0-fix3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.eliasteeny/opencv_android_module/3.1.0-fix3/700ace88f1e987658e343d5cc15718d7451fb8bd/opencv_android_module-3.1.0-fix3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml:2:3-40
+		INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml:3:5-5:11
+	android:name
+		ADDED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml:4:9-49
+uses-sdk
+INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml
+INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml
+		ADDED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/StudioProjects/document_scanner/android/src/main/AndroidManifest.xml
